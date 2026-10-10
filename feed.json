@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "lutzdammermann.de",
+    "description": "",
+    "home_page_url": "https://lutzdammermann.de",
+    "feed_url": "https://lutzdammermann.de/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Lutz Dammermann"
+    },
+    "items": [
+    ]
+}
